@@ -1,7 +1,7 @@
 Spell Name,Element,Effect/Lore,Combos,Attack,Modifier,modifer description
-Rockslide,Earth,Causes a rockslide that crashes down on enemies,8,7,1%,
-Earthen Grasp,Earth,Summons an earthen hand to grip and crush a foe,8,7,2,
-Pillar of Stone,Earth,Raises a towering stone pillar to block attacks,6,10,3,
-Guardian’s Embrace,Earth,Forms a defensive shell of hardened rock,5,9,4,
+1Rockslide,Earth,Causes a rockslide that crashes down on enemies,8,7,1%,
+2Earthen Grasp,Earth,Summons an earthen hand to grip and crush a foe,8,7,2,
+3Pillar of Stone,Earth,Raises a towering stone pillar to block attacks,6,10,3,
+4Guardian’s Embrace,Earth,Forms a defensive shell of hardened rock,5,9,4,
 Crumbling Impact,Earth,"Shatters the ground beneath foes, knocking them down",10,9,5,
 Tectonic Rift,Earth,"Opens a massive rift in the ground, swallowing enemies",5,1,6,
